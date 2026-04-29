@@ -1,0 +1,25 @@
+
+
+# Données PostgreSQL persistantes
+/db-data/
+
+# Sauvegardes et logs
+/backup/archive/
+/backup/logs/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.swp
+*.swo
+*~
+
+# Dossiers cachés
+.*
+!.gitignore
+
+# Node, Python.
+node_modules/
+__pycache__/
