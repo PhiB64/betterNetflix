@@ -1,3 +1,6 @@
+# Feuilles de route journalières
+feuille_de_route_*.md
+feuille_de_route_*.pdf
 
 
 # Données PostgreSQL persistantes
